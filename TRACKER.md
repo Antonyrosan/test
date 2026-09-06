@@ -7,10 +7,11 @@ This tracker records daily practice and weekly progress.
 | Date | Session | Topic | Minutes | Fluency (1–10) | Grammar (1–10) | Confidence (1–10) | Fillers | Key Corrections | New Phrases | Writing | Repeat Done |
 |---|---|---|---:|---:|---:|---:|---|---|---|---|---|
 | 2026-09-05 | Day 1 | DBA role/responsibility, incident handling, database performance, casual village festival story | 60+ | 7 | 6 | 7 | Frequent “uh/um/yeah”, repeated starts | Prepositions, articles, natural collocations, tense consistency, sentence formation, word retrieval | “As scheduled”, “clarify the incident details”, “investigate the issue”, “once the issue is resolved” | Planned daily writing practice added | Yes |
+| 2026-09-06 | Day 2 | Professional patching email + spontaneous speaking: vendor dump import, missing tablespaces, schema setup, validation | ~15 | 7 | 7 | 8 | Frequent “uh/yeah”, some restarts and word-searching | “scheduled for today”, “during the post-patch activities”, “upon investigation”, past-tense consistency, “without”, “latest patch level” | “started as planned”, “encountered some issues”, “identified the cause”, “row counts and object counts” | 7.5/10; strong technical clarity, improved structure, recurring spelling/preposition/tense issues | No |
 | | | | | | | | | | | | |
-| | | | | | | | | | | | |
-| | | | | | | | | | | | |
-| | | | | | | | | | | | |
+| | | | | | | | | | | | | |
+| | | | | | | | | | | | | |
+| | | | | | | | | | | | | |
 
 ## Day 1 Assessment Summary
 
@@ -22,6 +23,15 @@ This tracker records daily practice and weekly progress.
 - **Priority grammar:** prepositions, articles, tense consistency, singular/plural agreement, and natural collocations.
 - **Priority speaking:** reduce fillers, avoid restarting sentences, keep speaking when a word is missing, and use reusable sentence patterns.
 - **Priority writing:** workplace emails, incident summaries, status updates, documentation, and colleague chat messages.
+
+## Day 2 Assessment Summary
+
+- **Writing:** 7.5/10. Second draft showed clear improvement after correction. Strong technical vocabulary and good incident sequence; focus remains on spelling, articles/prepositions, tense consistency, and natural professional phrasing.
+- **Speaking:** approximately B1+. User explained a real DBA data-import incident spontaneously and maintained a logical sequence from problem to resolution to validation.
+- **Speaking strengths:** strong technical vocabulary, clear explanation of vendor dump/legacy export, tablespaces, quotas, schema creation, import monitoring, and validation using row counts/object counts.
+- **Speaking focus:** reduce “uh/yeah”, avoid restarting sentences, improve past-tense consistency, and use concise professional chunks.
+- **Confidence:** good. User described the incident calmly and emphasized that the plan was under control and completed as planned.
+- **Next speaking focus:** retell the same incident more concisely in 90–120 seconds, then handle follow-up questions as a manager would ask them.
 
 ## Weekly Review
 
