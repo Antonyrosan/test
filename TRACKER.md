@@ -8,6 +8,7 @@ This tracker records daily practice and weekly progress.
 |---|---|---|---:|---:|---:|---:|---|---|---|---|---|
 | 2026-09-05 | Day 1 | DBA role/responsibility, incident handling, database performance, casual village festival story | 60+ | 7 | 6 | 7 | Frequent “uh/um/yeah”, repeated starts | Prepositions, articles, natural collocations, tense consistency, sentence formation, word retrieval | “As scheduled”, “clarify the incident details”, “investigate the issue”, “once the issue is resolved” | Planned daily writing practice added | Yes |
 | 2026-09-06 | Day 2 | Professional patching email + spontaneous speaking: vendor dump import, missing tablespaces, schema setup, validation | ~15 | 7 | 7 | 8 | Frequent “uh/yeah”, some restarts and word-searching | “scheduled for today”, “during the post-patch activities”, “upon investigation”, past-tense consistency, “without”, “latest patch level” | “started as planned”, “encountered some issues”, “identified the cause”, “row counts and object counts” | 7.5/10; strong technical clarity, improved structure, recurring spelling/preposition/tense issues | No |
+| 2026-09-07 | Day 3 | Speaking: KT/reverse-KT discussion with Varad; high availability setup using Kafka/Zookeeper; professional status update | ~20 | 7.5 | 7 | 8 | Frequent “uh/yeah”, but fewer restarts during repetition | “do the reverse KT”, “requested some time to practice”, “we completed the configuration on Nodes 1 and 2”, “Node 3 is still pending and has been rescheduled”, “As scheduled” | “I'm glad we didn't miss practice”, “build fluency”, “make sentence formation more natural”, “As scheduled, the activity was completed successfully” | 7.5/10; clear technical status email, good structure; focus on articles, plurals, tense, spelling, and natural phrasing | Yes |
 | | | | | | | | | | | | |
 | | | | | | | | | | | | | |
 | | | | | | | | | | | | | |
@@ -32,6 +33,17 @@ This tracker records daily practice and weekly progress.
 - **Speaking focus:** reduce “uh/yeah”, avoid restarting sentences, improve past-tense consistency, and use concise professional chunks.
 - **Confidence:** good. User described the incident calmly and emphasized that the plan was under control and completed as planned.
 - **Next speaking focus:** retell the same incident more concisely in 90–120 seconds, then handle follow-up questions as a manager would ask them.
+
+## Day 3 Assessment Summary
+
+- **Speaking:** approximately B1+/approaching B2 in familiar professional contexts. User handled a KT/reverse-KT discussion and explained a high-availability setup clearly.
+- **Speaking strengths:** strong technical vocabulary, concise status reporting, and improved ability to repeat/rephrase a message after correction.
+- **Speaking focus:** reduce fillers, improve article/preposition use, and make tense and sentence structure more automatic.
+- **Writing:** 7.5/10. The status email communicated completed work, pending Node 3 activity, and actions performed in a professional structure.
+- **Writing focus:** spelling, plural forms, articles, tense consistency, and natural phrases such as “As scheduled” and “has been rescheduled.”
+- **Confidence:** 8/10. Despite a long workday and extensive English meetings, user completed the practice instead of skipping it.
+- **Practice note:** The user spent about six hours speaking English in work meetings today, providing useful real-world immersion. The formal practice was intentionally kept short because of fatigue.
+- **Next focus:** continue concise professional speaking, then move into manager follow-up questions and a short workplace writing task.
 
 ## Weekly Review
 
