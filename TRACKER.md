@@ -9,8 +9,8 @@ This tracker records daily practice and weekly progress.
 | 2026-09-05 | Day 1 | DBA role/responsibility, incident handling, database performance, casual village festival story | 60+ | 7 | 6 | 7 | Frequent “uh/um/yeah”, repeated starts | Prepositions, articles, natural collocations, tense consistency, sentence formation, word retrieval | “As scheduled”, “clarify the incident details”, “investigate the issue”, “once the issue is resolved” | Planned daily writing practice added | Yes |
 | 2026-09-06 | Day 2 | Professional patching email + spontaneous speaking: vendor dump import, missing tablespaces, schema setup, validation | ~15 | 7 | 7 | 8 | Frequent “uh/yeah”, some restarts and word-searching | “scheduled for today”, “during the post-patch activities”, “upon investigation”, past-tense consistency, “without”, “latest patch level” | “started as planned”, “encountered some issues”, “identified the cause”, “row counts and object counts” | 7.5/10; strong technical clarity, improved structure, recurring spelling/preposition/tense issues | No |
 | 2026-09-07 | Day 3 | Speaking: KT/reverse-KT discussion with Varad; high availability setup using Kafka/Zookeeper; professional status update | ~20 | 7.5 | 7 | 8 | Frequent “uh/yeah”, but fewer restarts during repetition | “do the reverse KT”, “requested some time to practice”, “we completed the configuration on Nodes 1 and 2”, “Node 3 is still pending and has been rescheduled”, “As scheduled” | “I'm glad we didn't miss practice”, “build fluency”, “make sentence formation more natural”, “As scheduled, the activity was completed successfully” | 7.5/10; clear technical status email, good structure; focus on articles, plurals, tense, spelling, and natural phrasing | Yes |
+| 2026-09-08 | Day 4 | Professional Oracle patching email + 5 DBA sentence-formation drill + spontaneous patching explanation and daily DBA routine | ~25 | 8 | 7.5 | 8.5 | “uh/yeah” still frequent, but noticeably less nervousness and more spontaneous speech | Passive voice: “was completed”, “were installed”, “was handed over”; past tense; articles/plurals; concise summaries | “upon investigating the issue”, “the patching activity was temporarily stopped”, “the server was handed over”, “please let me know if there are any queries” | 8/10; clear issue → resolution → final status structure; focus on passive voice, articles, plurals, spelling, and natural phrasing | Yes |
 | | | | | | | | | | | | |
-| | | | | | | | | | | | | |
 | | | | | | | | | | | | | |
 | | | | | | | | | | | | | |
 
@@ -44,6 +44,17 @@ This tracker records daily practice and weekly progress.
 - **Confidence:** 8/10. Despite a long workday and extensive English meetings, user completed the practice instead of skipping it.
 - **Practice note:** The user spent about six hours speaking English in work meetings today, providing useful real-world immersion. The formal practice was intentionally kept short because of fatigue.
 - **Next focus:** continue concise professional speaking, then move into manager follow-up questions and a short workplace writing task.
+
+## Day 4 Assessment Summary
+
+- **Writing:** 8/10. User produced a complete professional Oracle patching status email with a clear sequence: planned activity → pre-checks → patching warning → missing RPMs → DevOps action → resumed patching → post-checks → handover.
+- **Sentence formation:** 8.5/10. User successfully converted five DBA situations into professional sentences, with only minor issues around articles, plurals, spelling, and passive voice.
+- **Speaking:** approximately B1+/approaching B2 in familiar professional contexts. User explained the patching incident spontaneously and then gave a detailed account of the day's DBA activities without preparing a script.
+- **Speaking strengths:** noticeably better confidence, no significant nervousness, strong technical vocabulary, logical incident narration, and ability to generate some new phrasing in the moment rather than memorizing the written version.
+- **Speaking focus:** reduce “uh/yeah”, shorten long explanations, improve passive voice and tense automaticity, and practice concise 60-second summaries.
+- **Confidence:** 8.5/10. User explicitly reported feeling comfortable and not nervous while explaining the technical incident.
+- **New technical communication patterns:** “The activity was completed successfully”, “the issue was caused by missing OS RPM packages”, “the patching activity was temporarily stopped”, “the server was handed over to the client”, “please let me know if there are any queries.”
+- **Next focus:** 60-second spontaneous summary followed by manager-style follow-up questions; then a short workplace/casual writing task.
 
 ## Weekly Review
 
