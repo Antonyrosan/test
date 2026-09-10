@@ -11,9 +11,10 @@ This tracker records daily practice and weekly progress.
 | 2026-09-07 | Day 3 | Speaking: KT/reverse-KT discussion with Varad; high availability setup using Kafka/Zookeeper; professional status update | ~20 | 7.5 | 7 | 8 | Frequent “uh/yeah”, but fewer restarts during repetition | “do the reverse KT”, “requested some time to practice”, “we completed the configuration on Nodes 1 and 2”, “Node 3 is still pending and has been rescheduled”, “As scheduled” | “I'm glad we didn't miss practice”, “build fluency”, “make sentence formation more natural”, “As scheduled, the activity was completed successfully” | 7.5/10; clear technical status email, good structure; focus on articles, plurals, tense, spelling, and natural phrasing | Yes |
 | 2026-09-08 | Day 4 | Professional Oracle patching email + 5 DBA sentence-formation drill + spontaneous patching explanation and daily DBA routine | ~25 | 8 | 7.5 | 8.5 | “uh/yeah” still frequent, but noticeably less nervousness and more spontaneous speech | Passive voice: “was completed”, “were installed”, “was handed over”; past tense; articles/plurals; concise summaries | “upon investigating the issue”, “the patching activity was temporarily stopped”, “the server was handed over”, “please let me know if there are any queries” | 8/10; clear issue → resolution → final status structure; focus on passive voice, articles, plurals, spelling, and natural phrasing | Yes |
 | 2026-09-09 | Day 5 | Daily routine speaking + concise workplace speaking about office/WFH, Veronica HA Session 2, rolling maintenance practice, patch completion and client handover; onboarding-focused writing | ~15 | 8 | 7.5 | 8.5 | “uh/yeah” still present, but speech remained understandable and confident | “I was planning to go to the office”, “I took work from home” → “I worked from home”, “the session was held”, “we completed the patching without issues”, “provided the status update to the client”; complete “I will + base verb” structures | “I will explain…”, “I will cover…”, “I will help…”, “I will provide an update…” | 7.5/10; clear onboarding email with practical project/client/access/process details; focus on sentence completeness, spelling, articles, and natural phrasing | No |
+| 2026-09-10 | Day 6 | Speaking test + spontaneous full-day routine: Chrompet office commute, new joiner onboarding, training delivery, OS/virtualization/SQL/DBMS/Oracle architecture topics, learner assessment, and reflection on over-explaining | ~30 | 8 | 7.5 | 8.5 | “uh/yeah” and sentence restarts still frequent, especially during long spontaneous explanations | “guide them through the joining process”, “explain the roles and responsibilities”, “walk them through the routine tasks”, “send feedback to you”, “based on their knowledge base”; avoid “explain about” and reduce over-explaining | “guide them through…”, “based on the assessment…”, “walk them through…”, “check their understanding”, “what they need to move forward” | 8/10; clear onboarding plan email with logical sequencing; focus on articles, prepositions, verb forms, and natural collocations | Yes |
 | | | | | | | | | | | | |
-| | | | | | | | | | | | | |
-| | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | |
 
 ## Day 1 Assessment Summary
 
@@ -67,6 +68,19 @@ This tracker records daily practice and weekly progress.
 - **Speaking focus:** reduce “uh/yeah”, improve natural phrasing (“I worked from home” rather than “I took work from home”), and keep summaries concise.
 - **Confidence:** 8.5/10. User sounded comfortable during the short speaking drill.
 - **Next focus:** manager-style follow-up questions and concise 60-second workplace summaries, followed by another practical writing task.
+
+## Day 6 Assessment Summary
+
+- **Writing:** 8/10. User produced a clear onboarding plan with a logical sequence: guide joiners → explain roles → cover routine tasks → explain client coordination → review existing knowledge → provide feedback → start training based on assessment.
+- **Writing strengths:** strong workplace intent, logical sequencing, increasingly confident use of future forms, and practical vocabulary.
+- **Writing focus:** “explain something” rather than “explain about something”; articles/prepositions; natural collocations; avoiding unnecessary words such as “completely.”
+- **Speaking:** approximately B1+/approaching B2 in familiar workplace contexts. User completed a speaking test and then gave a long spontaneous explanation of the full day, including commuting, meeting the new joiners, onboarding challenges, training topics, and their own assessment of the learners.
+- **Speaking strengths:** strong spontaneity, detailed storytelling, chronological structure, humor and personality, ability to explain technical concepts from basic OS/virtualization through Oracle architecture, and confidence to keep speaking despite word-searching.
+- **Speaking focus:** **conciseness and audience awareness**. The main issue was not lack of content, but over-explaining. User recognized this themselves and understood the principle: communicate what the listener needs to move forward rather than everything you know.
+- **Fillers:** “uh/yeah” and restarts remain noticeable during spontaneous speech. Continue replacing fillers with short pauses instead of trying to eliminate every hesitation.
+- **Reading practice decision:** user proposed adding reading aloud 2–3 days per week, including novels, short stories, and non-technical material. This is recommended as a supporting activity for pacing, pausing, sentence rhythm, vocabulary range, and exposure to natural sentence patterns. The important bridge is **read aloud → close the text → paraphrase in your own words**.
+- **Confidence:** 8.5/10. User repeated the speaking update with stronger emphasis and remained comfortable even when correcting themselves.
+- **Next focus:** practice 60–90 second summaries, audience-based detail selection, and manager-style follow-up questions. Add reading aloud 2–3 times per week without replacing speaking practice.
 
 ## Weekly Review
 
